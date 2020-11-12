@@ -1,0 +1,11 @@
+C:\Users\Computer\Desktop\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\test\test\obj\Debug\test.Form1.resources
+C:\Users\Computer\Desktop\test\test\obj\Debug\test.Form2.resources
+C:\Users\Computer\Desktop\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Computer\Desktop\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\test\test\bin\Debug\test.exe.config
+C:\Users\Computer\Desktop\test\test\bin\Debug\test.exe
+C:\Users\Computer\Desktop\test\test\bin\Debug\test.pdb
+C:\Users\Computer\Desktop\test\test\obj\Debug\test.exe
+C:\Users\Computer\Desktop\test\test\obj\Debug\test.pdb
